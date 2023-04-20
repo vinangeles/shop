@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('content')
 <div class="container-fluid hero-section d-flex align-items-center">
     <div class="col-4 text-center m-auto bg-black bg-opacity-50 text-white p-5 ">
